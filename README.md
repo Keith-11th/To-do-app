@@ -23,4 +23,4 @@ A simple to-do list built with plain HTML, CSS, and JavaScript with no libraries
 
 ## Author
 
-Keith
+Keith Douglas Kirabo
